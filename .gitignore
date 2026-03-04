@@ -1,2 +1,6 @@
 # Python virtual environments
 .venv/
+#data
+*.html
+*.xlsx
+*.txt
